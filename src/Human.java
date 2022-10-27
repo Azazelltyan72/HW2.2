@@ -1,6 +1,6 @@
 
 
-public class Human{
+public class Human {
     String name;
     String town;
     int yearOfBirth;
@@ -26,7 +26,7 @@ public class Human{
                 ". Я из города " + town +
                 ". Я родился в " + yearOfBirth + " году." +
                 " Я работаю на должности " + job +
-                ". Будем знакомы!" ;
+                ". Будем знакомы!";
     }
 
 }
